@@ -1,16 +1,48 @@
-## Hi there 👋
+### Привет! 👋
 
-<!--
-**ProWalker/ProWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Обо мне за 30 секунд ✨ 
+* PHP-разработчик
+* Специализируюсь на системе Moodle
+* Увлекаюсь data science
 
-Here are some ideas to get you started:
+### 📚 Проекты 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Кликни [сюда]() чтобы посмотреть мои проекты
+
+### 💡 Основные компетенции 💡
+- Инструменты: 
+  - Skills: 
+      * PHP
+      * Moodle
+      * SQL
+      * Javascript
+      * VueJS
+
+### ⚡️ В настоящее время ⚡️
+- Разработчик бизнес-приложений в компании Талан
+- 
+### 🙌🏻 Свяжись со мной
+- [Telegram](@Provoker1986)
+---
+
+### Hello! 👋
+
+### ✨ About me in 30 seconds ✨ 
+* PHP-developer
+* I specialize in the Moodle system
+* I am interested in data science
+
+### 💡 Core competencies 💡
+- Tools: 
+  - Skills:
+    * PHP
+    * Moodle
+    * SQL
+    * Javascript
+    * VueJS
+
+### ⚡️ Currently ⚡️
+- Business Application Developer at Talan
+
+### 🙌🏻 Contact me
+- [Telegram](@Provoker1986)
