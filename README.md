@@ -22,7 +22,7 @@
 - Разработчик бизнес-приложений в компании Талан
 - 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](@Provoker1986)
+- [Telegram](https://t.me/Provoker1986)
 ---
 
 ### Hello! 👋
@@ -45,4 +45,4 @@
 - Business Application Developer at Talan
 
 ### 🙌🏻 Contact me
-- [Telegram](@Provoker1986)
+- [Telegram](https://t.me/Provoker1986)
