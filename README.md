@@ -17,6 +17,11 @@
       * SQL
       * Javascript
       * VueJS
+      * SQL
+      * MySQL
+      * Python
+      * Pandas
+      * Numpy
 
 ### ⚡️ В настоящее время ⚡️
 - Разработчик бизнес-приложений в компании Талан
@@ -39,6 +44,11 @@
     * SQL
     * Javascript
     * VueJS
+    * SQL
+    * MySQL
+    * Python
+    * Pandas
+    * Numpy
 
 ### ⚡️ Currently ⚡️
 - Business Application Developer at Talan
