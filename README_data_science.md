@@ -17,7 +17,8 @@
 - `scikit-learn`
 - `NumPy`
 - `Matplotlib`
-- `Seaborn`  
+- `Seaborn`
+
 **Базы данных:** `SQL` (базовый уровень)  
 **Среда:** `Jupyter Notebook` / `VS Code`  
 
