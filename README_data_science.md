@@ -23,8 +23,8 @@
 **Среда:** `Jupyter Notebook` / `VS Code`  
 
 ### ⚡️ В настоящее время ⚡️  
-Углубляю знания и изучаю `feature engineering`  
-Делаю pet-проекты с открытыми датасетами (Kaggle / hh.ru)  
+- Углубляю знания и изучаю `feature engineering`  
+- Делаю pet-проекты с открытыми датасетами (Kaggle / hh.ru)  
 
 ### 📫 Свяжись со мной  
-[Telegram](ссылка)
+[Telegram](https://t.me/Provoker1986)
